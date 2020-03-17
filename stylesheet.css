@@ -197,7 +197,7 @@ header{
   
 }
 
-.btn:active{
+.message:active{
   box-shadow:none;
   position:relative;
   top:7px;
